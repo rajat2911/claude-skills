@@ -1,0 +1,8 @@
+{
+  "name": "claude-skills",
+  "description": "Useful Claude Code skills for productivity",
+  "version": "1.0.0",
+  "author": {
+    "name": "Rajat Verma"
+  }
+}
