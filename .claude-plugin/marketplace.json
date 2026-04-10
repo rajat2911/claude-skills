@@ -1,9 +1,12 @@
 {
   "name": "rajat2911-claude-skills",
+  "owner": {
+    "name": "Rajat Verma"
+  },
   "plugins": [
     {
       "name": "claude-skills",
-      "repository": "https://github.com/rajat2911/claude-skills",
+      "source": "https://github.com/rajat2911/claude-skills",
       "version": "1.0.0"
     }
   ]
