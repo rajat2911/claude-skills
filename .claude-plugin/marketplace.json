@@ -6,7 +6,7 @@
   "plugins": [
     {
       "name": "claude-skills",
-      "source": "https://github.com/rajat2911/claude-skills",
+      "source": "./plugins/claude-skills",
       "version": "1.0.0"
     }
   ]
