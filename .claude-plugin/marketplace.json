@@ -1,0 +1,10 @@
+{
+  "name": "rajat2911-claude-skills",
+  "plugins": [
+    {
+      "name": "claude-skills",
+      "repository": "https://github.com/rajat2911/claude-skills",
+      "version": "1.0.0"
+    }
+  ]
+}

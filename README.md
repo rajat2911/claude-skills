@@ -11,7 +11,16 @@ Each skill is a markdown file with instructions injected into Claude's context w
 ## Install
 
 ```bash
-claude /plugin install rajat2911/claude-skills
+# Step 1: Add marketplace
+claude /plugin marketplace add https://github.com/rajat2911/claude-skills
+
+# Step 2: Install plugin
+claude /plugin install claude-skills@rajat2911-claude-skills
+```
+
+**Test locally (no install needed):**
+```bash
+claude --plugin-dir /path/to/claude-skills
 ```
 
 ---
